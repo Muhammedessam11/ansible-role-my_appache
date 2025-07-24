@@ -1,12 +1,13 @@
----
 galaxy_info:
-  author: "Dimitrios Kanellopoulos"
+  role_name: my_appache
+  author: Muhammed Essam
+  description: Install and configure Apache2
   license: MIT
-  min_ansible_version: 1.4
+  min_ansible_version: 2.9
+
   platforms:
     - name: Ubuntu
       versions:
-        - saucy
-  categories:
-    - web
+        - all
+
 dependencies: []
