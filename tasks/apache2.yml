@@ -1,0 +1,8 @@
+---
+- name: Install Apache packages
+  apt:
+    name: "{{ item }}"
+    state: present
+    update_cache: yes
+  loop: "{{ apache_packages }}"
+  become: yes
