@@ -11,8 +11,8 @@ Get the code:
 
 - github: [ansible-role-my_appache](https://github.com/Muhammedessam11/ansible-role-my_appache)
 
-- Ansible Galaxy: [Ansible-Apache2-Ubuntu-Saucy-Role](https://galaxy.ansible.com/list#/roles/355)
+- Ansible Galaxy: [Muhammedessam11.my_appache].
 
 Install Only
 ----------
-```$ ansible-galaxy install jimmykane.Ansible-Apache2-Ubuntu-Saucy-Role```
+```$ ansible-galaxy install Muhammedessam11.my_appache```
